@@ -1,4 +1,4 @@
-$(".upperHalf, .lowerHalf, .kekkaHalf, .form, .ranking").hide();
+$(".upperHalf, .lowerHalf, .kekkaHalf, .form").hide();
 
 // 問題をここに格納
 checkArray = [];
@@ -111,5 +111,6 @@ function scorePush() {
 
 // スコアを表示
 $(".rankHalf").on("click", function () {
-    $(".ranking").show();
+    $(".ranking").slideToggle(500);
+    console.log("出来た");
 });

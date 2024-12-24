@@ -11,7 +11,7 @@ try {
 }
 $stmt = $pdo->prepare(
     "INSERT INTO
-    kadai07_table(id, name, myScore , date)
+    kadai08_table(id, name, myScore , date)
     VALUES(NULL, :name, :myScore, now())"
 );
 

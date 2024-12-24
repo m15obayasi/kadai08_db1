@@ -11,7 +11,7 @@ try {
     exit();
 }
 
-$stmt = $pdo->prepare("SELECT * FROM kadai07_table;");
+$stmt = $pdo->prepare("SELECT * FROM kadai08_table;");
 $status = $stmt->execute();
 
 
