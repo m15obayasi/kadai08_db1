@@ -5,7 +5,7 @@
 - 前回分から少しだけ見やすくなりました。
 
 ## ③DEMO
-- https://lanmadaw.sakura.ne.jp/kadai08_db1_php/
+- https://lanmadaw.sakura.ne.jp/kadai08_db1/
 
 ## ⑤工夫した点・こだわった点
 
